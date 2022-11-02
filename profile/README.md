@@ -1,5 +1,5 @@
 ## About 
-Crafting open source packages in Masonite ecosystem and more.
+Crafting open source python packages.
 
 For more information, you can visit the following links:
 
